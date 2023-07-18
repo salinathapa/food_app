@@ -45,7 +45,7 @@ main {
 
 section {
     font-size: 12px;
-    flex: 50%;
+    flex: 25%;
 }
 
 .food-image {
@@ -58,4 +58,5 @@ section {
 footer {
     text-align: center;
     font-size: 15px;
+    margin-top: 50px;
 }
