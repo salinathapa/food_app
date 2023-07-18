@@ -1,0 +1,61 @@
+#heading {
+    display: flex;
+    justify-content: space-between;
+    color: #EA9010;
+}
+
+header {
+    font-size: 50px;
+}
+
+body {
+    width: 95%%;
+    background-color: #EAEFBD;
+    color: #37371F;
+    font-family: :-moz-only-whitespace;
+}
+
+#search-form {
+    text-align: center;
+}
+
+#search-bar {
+    width: 88%;
+}
+
+#filter {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+main {
+    flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#trending {
+    flex: 100%;
+    background-image: url(https://igav3-metcdn-com.global.ssl.fastly.net/content/uploads/sites/2/2022/11/04123322/Recipe-Page-Image-%E2%80%93-PrawnRolls.png);
+    height: 200px;
+    background-size: fill;
+    background-position: -50px;
+}
+
+section {
+    font-size: 12px;
+    flex: 50%;
+}
+
+.food-image {
+    width: 100%;
+    height: 100%;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+}
