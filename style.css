@@ -12,7 +12,7 @@ body {
     width: 95%%;
     background-color: #EAEFBD;
     color: #37371F;
-    font-family: :-moz-only-whitespace;
+    font-family: monospace;
 }
 
 #search-form {
